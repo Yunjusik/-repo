@@ -21,4 +21,7 @@ ip.dst_host==192~ - 해당 목적지 아이피주소에 대한 모든 패킷 필
 frame.len <= 128 - 프레임길이를 128보다 작거나 같은 패킷만 필터링
 
 
-3.와이어샤크 컬러링 마크기능
+3.와이어샤크 컬러링 마크
+마우스 우측버튼으로 마크
+찾을때 - edit-> next mark , mark all displayed, unmark all displayed.
+print - marked packets only
